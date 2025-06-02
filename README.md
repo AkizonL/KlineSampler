@@ -7,8 +7,8 @@
 ### Just a simple tool that does exactly what the description says - nothing more  
 
 ![示例截图](Snipaste.jpg)  
-<del>或许能用来测试某个对话大模型能否准确预测K线价格？</del>  
-<del>Might be useful to test if an LLM can accurately predict candlestick prices?</del>  
+<del>或许能用来测试某个对话大模型能否准确预测K线价格？👈🤣 </del>
+<del>Might be useful to test if an LLM can accurately predict candlestick prices?👈🤣</del>
 
 **相关项目**  
 **Related Projects**  
