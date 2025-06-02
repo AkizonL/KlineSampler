@@ -6,3 +6,4 @@
 ###无聊的小项目，就如简介所说，就只有这一个功能
 ###Boring little projects, as the introduction says, only have this one feature.
 
+(Snipaste.jpg)
